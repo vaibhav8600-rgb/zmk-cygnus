@@ -13,11 +13,11 @@ include:
     artifact-name: cygnus_dongle
   - board: nice_nano_v2
 #  - board: nice_nano
-    shield: cygnus_left
+    shield: cygnus_left nice_view_adapter nice_view
     artifact-name: cygnus_left
   - board: nice_nano_v2
 #  - board: nice_nano
-    shield: cygnus_right
+    shield: cygnus_right nice_view_adapter nice_view
     artifact-name: cygnus_right
   - board: nice_nano_v2
 #  - board: nice_nano
